@@ -1,0 +1,1 @@
+- this has been created in md format that outlines the rules that people with access to your repository should follow
